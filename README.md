@@ -10,8 +10,28 @@ TODO
 
 ### Selective Attention
 
+The code for training the selective attention model is available [here](https://github.com/MaxyLee/fairseq_mmt), which is base on [fairseq-mmt](https://github.com/libeineu/fairseq_mmt).
+
+```
+# train
+bash train_mmt.sh
+# test
+bash translate_mmt.sh
+```
+
 ### VL-Bart, VL-T5
 
+The code for training the VL-Bart and VL-T5 model is available [here](https://github.com/MaxyLee/VL-T5), which is based on [VL-T5](https://github.com/j-min/VL-T5).
+
+```
+# VL-Bart
+bash scripts/MMT_VLBart.sh
+# VL-T5
+bash scripts/MMT_VLT5.sh
+```
+
 ## Citation
+
+If you use this dataset in your research, please cite:
 
 TODO
