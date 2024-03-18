@@ -4,7 +4,7 @@ We introduce 3AM: an ambiguity-aware multimodal machine translation dataset with
 
 ## Download
 
-TODO
+Please download the dataset at [here](https://drive.google.com/drive/folders/1q_TS76NUB9WpBVf9eblMFnEytdFAQVRt?usp=drive_link). The text data is also available at the 'data' folder.
 
 ## Training
 
