@@ -30,8 +30,14 @@ bash scripts/MMT_VLBart.sh
 bash scripts/MMT_VLT5.sh
 ```
 
+## Contact
+
+If you have any questions, please email yc27434@umac.mo.
+
 ## Citation
 
 If you use this dataset in your research, please cite:
 
+```
 TODO
+```
