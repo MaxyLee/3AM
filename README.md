@@ -1,4 +1,4 @@
-# 3AM
+# 3AM: An Ambiguity-Aware Multi-Modal Machine Translation Dataset
 
 We introduce 3AM: an ambiguity-aware multimodal machine translation dataset with ~26K image-text pairs for multimodal machine translation. Compared with previous MMT datasets, our dataset encompasses a greater diversity of caption styles and a wider range of visual concepts. Please check out our paper for more details.
 
