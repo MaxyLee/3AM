@@ -39,5 +39,15 @@ If you have any questions, please email yc27434@umac.mo.
 If you use this dataset in your research, please cite:
 
 ```
-TODO
+@inproceedings{ma-etal-2024-3am-ambiguity,
+    title = "3{AM}: An Ambiguity-Aware Multi-Modal Machine Translation Dataset",
+    author = {Ma, Xinyu and Liu, Xuebo and Wong, Derek F and Rao, Jun and Li, Bei and Ding, Liang and Chao, Lidia S and Tao, Dacheng and Zhang, Min},
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1",
+    pages = "1--13",
+}
 ```
