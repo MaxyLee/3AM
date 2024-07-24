@@ -4,7 +4,7 @@ We introduce 3AM: an ambiguity-aware multimodal machine translation dataset with
 
 ## Download
 
-Please download the dataset at [here](https://uofmacau-my.sharepoint.com/:f:/g/personal/yc27434_um_edu_mo/EvdxzWiEiO9PhS0Fdyc7oecBIlG5N-WD2D1QCB4jLJ9r6Q?e=Lgy88V). The text data is also available at the `data` folder.
+Please download the dataset at [here](https://uofmacau-my.sharepoint.com/:f:/g/personal/yc27434_um_edu_mo/EvdxzWiEiO9PhS0Fdyc7oecBIlG5N-WD2D1QCB4jLJ9r6Q?e=hOLhla). The text data is also available at the `data` folder.
 
 ## Training
 
